@@ -12,7 +12,7 @@ Git 2.56.0을 RenkuOS(Haiku) arm64용으로 빌드한 것입니다. RenkuOS arm6
 
 ## 설치
 
-RENKU Apps 저장소에서 (패키지가 올라간 뒤):
+RENKU Apps 저장소에서:
 
 ```sh
 pkgman install git

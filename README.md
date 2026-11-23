@@ -12,7 +12,7 @@ Unofficial build, not affiliated with the Git project.
 
 ## Install
 
-From the RENKU Apps repository (once the package is published there):
+From the RENKU Apps repository:
 
 ```sh
 pkgman install git
